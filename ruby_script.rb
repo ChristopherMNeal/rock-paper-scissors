@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 require ('./lib/rps.rb')
 
 p1_score = 0
